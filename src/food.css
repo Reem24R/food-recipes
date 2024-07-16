@@ -1,0 +1,47 @@
+.logo
+{
+    font-family: "Great Vibes", cursive;
+    font-size: 60px;
+    color:rgb(0, 228, 0);
+    margin-top: 0;
+}
+.card1
+{
+   
+    font-family: "Open Sans", sans-serif;
+    width: 100%;
+    height: 100%;
+  
+
+    background-color: blue;
+}
+/* .image img
+{
+    width: 100%;
+    height: 100px;
+
+} */
+ .countainer
+ {
+    
+    margin: 0 10px;
+    width: 80%;
+ }
+ .recipes
+ {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .card-img {
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+  }
+  /* header
+  {
+    height: 400px;
+    background-image: url('./imgs/banner1.jpeg');
+    background-position: center;
+    background-size: cover;
+  } */
